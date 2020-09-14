@@ -1,1 +1,1 @@
-# https://msbelyakov.github.io/rsschool-cv/
+# https://msbelyakov.github.io/rsschool-cv/cv
