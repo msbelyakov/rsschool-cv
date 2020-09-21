@@ -1,1 +1,1 @@
-# https://msbelyakov.github.io/rsschool-cv/index.html
+# https://msbelyakov.github.io/rsschool-cv/
